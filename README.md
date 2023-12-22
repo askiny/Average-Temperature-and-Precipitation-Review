@@ -14,5 +14,5 @@ In this project, using surface temperature and precipitation data from the World
 
 # Libraries Used
 
-Data Pulling: Json, Requests
+Data Pulling: Json, Requests.
 Data Processing: Pandas, Datetime, Matplotlib
